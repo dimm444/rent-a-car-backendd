@@ -1,0 +1,195 @@
+{
+  "home_title": "Car Rentals",
+  "filter_by_make": "Filter by make",
+  "start_date": "Start Date",
+  "end_date": "End Date",
+  "total_price": "Total price for {{days}} day(s) is: {{price}} €",
+  "navbar": {
+    "cars": "Cars",
+    "about": "About Us",
+    "contact": "Contact"
+  },
+  "about_title": "About OneLeasing",
+  "about_text": "OneLeasing is a leading company in Macedonia offering high-quality car rental services. Our goal is to provide an excellent and simple experience for every customer when renting the car they desire. Our vehicles are modern, well-maintained, and fully safe, offering comfort and reliability on every trip. We have a diverse fleet to meet various customer needs, whether for personal or business use. At OneLeasing, our priority is transparency and open communication with clients. Every step of the rental process is clear and straightforward, with no hidden costs or complicated procedures. We are committed to friendly and fast service, aiming to meet all the requirements and expectations of our clients. With a professional and dedicated team, we are here to help you choose the ideal car and make every journey successful and pleasant. Trust OneLeasing for the best car rental solution in Macedonia and experience the best service at every moment.",
+  "about_mission_title": "Our Mission",
+  "about_mission_text": "To provide the best car rental experience through a simple process and friendly service.",
+  "about_vision_title": "Our Vision",
+  "about_vision_text": "To become the leading car rental company in the region, known for quality and innovation.",
+  "about_values_title": "Our Values",
+  "about_values_trust_title": "Trust",
+  "about_values_trust_text": "We build relationships based on honesty and transparency.",
+  "about_values_flexibility_title": "Flexibility",
+  "about_values_flexibility_text": "We adapt to your needs with flexible rental options.",
+  "about_values_service_title": "Excellent Service",
+  "about_values_service_text": "Customer satisfaction is our priority through friendly support.",
+  "about_team_title": "Our Team",
+  "about_team_text": "Our professional team is always ready to help you find the ideal vehicle for your needs.",
+  "contact_title": "Contact Us",
+  "contact_name": "Name",
+  "contact_email": "Email",
+  "contact_message": "Message",
+  "contact_send": "Send",
+  "contact_message_sent": "Message sent!",
+  "cars": {
+    "volkswagen_golf_7": {
+      "name": "Volkswagen Golf 7",
+      "description": "Golf 7 is compact, economical, and suitable for city driving and short trips.",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "year": "2018",
+      "power": "150 HP"
+    },
+    "bmw_x5": {
+      "name": "BMW X5",
+      "description": "BMW X5 offers luxury and performance with advanced technology and comfort.",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "year": "2020",
+      "power": "300 HP"
+    },
+    "audi_a4": {
+      "name": "Audi A4",
+      "description": "Audi A4 is the perfect choice for those seeking elegance and dynamics.",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "year": "2019",
+      "power": "190 HP"
+    },
+    "mercedes_c_class": {
+      "name": "Mercedes C Class",
+      "description": "Mercedes C Class combines classic style with modern technology and premium comfort.",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "year": "2021",
+      "power": "220 HP"
+    },
+    "toyota_corolla": {
+      "name": "Toyota Corolla",
+      "description": "Toyota Corolla is reliable and economical – perfect for everyday use.",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "year": "2017",
+      "power": "132 HP"
+    },
+    "ford_mustang": {
+      "name": "Ford Mustang",
+      "description": "Ford Mustang is an icon of power and American sporty style.",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "year": "2019",
+      "power": "450 HP"
+    },
+    "honda_civic": {
+      "name": "Honda Civic",
+      "description": "Honda Civic is practical, durable, and very economical for daily driving.",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "year": "2018",
+      "power": "158 HP"
+    },
+    "nissan_altima": {
+      "name": "Nissan Altima",
+      "description": "Nissan Altima offers high comfort and advanced technology.",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "year": "2020",
+      "power": "188 HP"
+    },
+    "chevrolet_camaro": {
+      "name": "Chevrolet Camaro",
+      "description": "Camaro is for those who want adrenaline and distinctive sporty style.",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "year": "2018",
+      "power": "455 HP"
+    },
+    "mazda_6": {
+      "name": "Mazda 6",
+      "description": "Mazda 6 is an elegant sedan with sporty handling feel.",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "year": "2019",
+      "power": "187 HP"
+    },
+    "jeep_wrangler": {
+      "name": "Jeep Wrangler",
+      "description": "Jeep Wrangler adapts to difficult terrains and off-road adventures.",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "year": "2017",
+      "power": "285 HP"
+    },
+    "kia_sportage": {
+      "name": "Kia Sportage",
+      "description": "Kia Sportage offers space, style, and affordable price in a modern SUV.",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "year": "2020",
+      "power": "181 HP"
+    },
+    "hyundai_tucson": {
+      "name": "Hyundai Tucson",
+      "description": "Tucson is a practical SUV with modern technology and elegant design.",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "year": "2021",
+      "power": "175 HP"
+    },
+    "skoda_octavia": {
+      "name": "Skoda Octavia",
+      "description": "Skoda Octavia is known for its spacious interior and low fuel consumption.",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "year": "2018",
+      "power": "150 HP"
+    },
+    "peugeot_3008": {
+      "name": "Peugeot 3008",
+      "description": "Peugeot 3008 offers modern French style and a pleasant driving experience.",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "year": "2019",
+      "power": "180 HP"
+    },
+    "renault_megane": {
+      "name": "Renault Megane",
+      "description": "Renault Megane is a refined hatchback suitable for any trip.",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "year": "2017",
+      "power": "140 HP"
+    },
+    "fiat_500e": {
+      "name": "Fiat 500e",
+      "description": "Fiat 500e is electric, compact, and ideal for busy cities.",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "year": "2020",
+      "power": "120 HP"
+    },
+    "tesla_model_3": {
+      "name": "Tesla Model 3",
+      "description": "Tesla Model 3 offers high electric performance with unmatched technology.",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "year": "2022",
+      "power": "283 HP"
+    },
+    "subaru_outback": {
+      "name": "Subaru Outback",
+      "description": "Subaru Outback is for adventurers – a powerful and safe 4x4.",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "year": "2019",
+      "power": "250 HP"
+    },
+    "citroen_c3": {
+      "name": "Citroen C3",
+      "description": "Citroen C3 is a compact hatchback with unique design and good comfort.",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "year": "2018",
+      "power": "110 HP"
+    }
+  }
+}

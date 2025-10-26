@@ -1,0 +1,195 @@
+{
+  "home_title": "Makina për Qira",
+  "filter_by_make": "Filtro sipas markës",
+  "start_date": "Data fillestare",
+  "end_date": "Data përfundimtare",
+  "total_price": "Çmimi total për {{days}} ditë është: {{price}} €",
+  "navbar": {
+    "cars": "Makina",
+    "about": "Rreth Nesh",
+    "contact": "Kontakt"
+  },
+  "about_title": "Rreth OneLeasing",
+  "about_text": "OneLeasing është një kompani udhëheqëse në Maqedoni që ofron shërbime me cilësi të lartë për qiradhënie makinash. Qëllimi ynë është të ofrojmë një përvojë të shkëlqyer dhe të thjeshtë për çdo klient kur merr makinën që dëshiron me qira. Makinat tona janë moderne, mirë të mirëmbajtura dhe plotësisht të sigurta, duke ofruar rehati dhe besueshmëri gjatë çdo udhëtimi. Ne kemi një flotë të ndryshme për të përmbushur nevoja të ndryshme të klientëve, qoftë për përdorim personal apo biznes. Tek OneLeasing, prioriteti ynë është transparenca dhe komunikimi i hapur me klientët. Çdo hap i procesit të qiradhënies është i qartë dhe i thjeshtë, pa kosto të fshehura apo procedura të komplikuara. Ne jemi të përkushtuar ndaj shërbimit miqësor dhe të shpejtë, duke synuar të përmbushim të gjitha kërkesat dhe pritshmëritë e klientëve tanë. Me një ekip profesional dhe të dedikuar, jemi këtu për t'ju ndihmuar të zgjidhni makinën ideale dhe të bëni çdo udhëtim të suksesshëm dhe të këndshëm. Besoni OneLeasing për zgjidhjen më të mirë të qiradhënies së makinave në Maqedoni dhe përjetoni shërbimin më të mirë në çdo moment.",
+  "about_mission_title": "Misioni Ynë",
+  "about_mission_text": "Të ofrojmë përvojën më të mirë të qiradhënies së makinave përmes një procesi të thjeshtë dhe shërbimi miqësor.",
+  "about_vision_title": "Vizioni Ynë",
+  "about_vision_text": "Të bëhemi kompania kryesore e qiradhënies së makinave në rajon, e njohur për cilësi dhe inovacion.",
+  "about_values_title": "Vlerat Tona",
+  "about_values_trust_title": "Besimi",
+  "about_values_trust_text": "Ndërtojmë marrëdhënie bazuar në ndershmëri dhe transparencë.",
+  "about_values_flexibility_title": "Fleksibiliteti",
+  "about_values_flexibility_text": "Ne përshtatemi me nevojat tuaja me opsione fleksibile qiraje.",
+  "about_values_service_title": "Shërbim i Shkëlqyer",
+  "about_values_service_text": "Kënaqësia e klientit është prioriteti ynë përmes mbështetjes miqësore.",
+  "about_team_title": "Ekipi Ynë",
+  "about_team_text": "Ekipi ynë profesional është gjithmonë gati t'ju ndihmojë të gjeni mjetin ideal për nevojat tuaja.",
+  "contact_title": "Kontaktoni Ne",
+  "contact_name": "Emri",
+  "contact_email": "Email",
+  "contact_message": "Mesazhi",
+  "contact_send": "Dërgo",
+  "contact_message_sent": "Mesazhi u dërgua!",
+  "cars": {
+    "volkswagen_golf_7": {
+      "name": "Volkswagen Golf 7",
+      "description": "Golf 7 është kompakt, ekonomik dhe i përshtatshëm për vozitje në qytet dhe udhëtime të shkurtra.",
+      "fuel": "Dizel",
+      "transmission": "Manual",
+      "year": "2018",
+      "power": "150 Kuaj Fuqi"
+    },
+    "bmw_x5": {
+      "name": "BMW X5",
+      "description": "BMW X5 ofron luks dhe performancë me teknologji dhe rehati të avancuar.",
+      "fuel": "Benzinë",
+      "transmission": "Automatik",
+      "year": "2020",
+      "power": "300 Kuaj Fuqi"
+    },
+    "audi_a4": {
+      "name": "Audi A4",
+      "description": "Audi A4 është zgjedhja perfekte për ata që kërkojnë elegancë dhe dinamikë.",
+      "fuel": "Benzinë",
+      "transmission": "Automatik",
+      "year": "2019",
+      "power": "190 Kuaj Fuqi"
+    },
+    "mercedes_c_class": {
+      "name": "Mercedes C Class",
+      "description": "Mercedes C Class kombinon stilin klasik me teknologjinë moderne dhe rehati premium.",
+      "fuel": "Dizel",
+      "transmission": "Automatik",
+      "year": "2021",
+      "power": "220 Kuaj Fuqi"
+    },
+    "toyota_corolla": {
+      "name": "Toyota Corolla",
+      "description": "Toyota Corolla është e besueshme dhe ekonomike – perfekte për përdorim të përditshëm.",
+      "fuel": "Benzinë",
+      "transmission": "Manual",
+      "year": "2017",
+      "power": "132 Kuaj Fuqi"
+    },
+    "ford_mustang": {
+      "name": "Ford Mustang",
+      "description": "Ford Mustang është një ikonë e fuqisë dhe stilit sportiv amerikan.",
+      "fuel": "Benzinë",
+      "transmission": "Manual",
+      "year": "2019",
+      "power": "450 Kuaj Fuqi"
+    },
+    "honda_civic": {
+      "name": "Honda Civic",
+      "description": "Honda Civic është praktike, e qëndrueshme dhe shumë ekonomike për udhëtimet e përditshme.",
+      "fuel": "Benzinë",
+      "transmission": "Automatik",
+      "year": "2018",
+      "power": "158 Kuaj Fuqi"
+    },
+    "nissan_altima": {
+      "name": "Nissan Altima",
+      "description": "Nissan Altima ofron rehati të lartë dhe teknologji të avancuar.",
+      "fuel": "Benzinë",
+      "transmission": "Automatik",
+      "year": "2020",
+      "power": "188 Kuaj Fuqi"
+    },
+    "chevrolet_camaro": {
+      "name": "Chevrolet Camaro",
+      "description": "Camaro është për ata që duan adrenalinë dhe stil sportiv dallues.",
+      "fuel": "Benzinë",
+      "transmission": "Manual",
+      "year": "2018",
+      "power": "455 Kuaj Fuqi"
+    },
+    "mazda_6": {
+      "name": "Mazda 6",
+      "description": "Mazda 6 është një sedan elegant me ndjesi sportive në drejtim.",
+      "fuel": "Benzinë",
+      "transmission": "Manual",
+      "year": "2019",
+      "power": "187 Kuaj Fuqi"
+    },
+    "jeep_wrangler": {
+      "name": "Jeep Wrangler",
+      "description": "Jeep Wrangler përshtatet për terrene të vështira dhe aventura off-road.",
+      "fuel": "Benzinë",
+      "transmission": "Manual",
+      "year": "2017",
+      "power": "285 Kuaj Fuqi"
+    },
+    "kia_sportage": {
+      "name": "Kia Sportage",
+      "description": "Kia Sportage ofron hapësirë, stil dhe çmim të përballueshëm në një SUV modern.",
+      "fuel": "Dizel",
+      "transmission": "Automatik",
+      "year": "2020",
+      "power": "181 Kuaj Fuqi"
+    },
+    "hyundai_tucson": {
+      "name": "Hyundai Tucson",
+      "description": "Tucson është një SUV praktik me teknologji moderne dhe dizajn elegant.",
+      "fuel": "Dizel",
+      "transmission": "Automatik",
+      "year": "2021",
+      "power": "175 Kuaj Fuqi"
+    },
+    "skoda_octavia": {
+      "name": "Skoda Octavia",
+      "description": "Skoda Octavia njihet për brendësinë e gjerë dhe konsumin e ulët të karburantit.",
+      "fuel": "Dizel",
+      "transmission": "Manual",
+      "year": "2018",
+      "power": "150 Kuaj Fuqi"
+    },
+    "peugeot_3008": {
+      "name": "Peugeot 3008",
+      "description": "Peugeot 3008 ofron stil modern francez dhe përvojë të këndshme vozitjeje.",
+      "fuel": "Dizel",
+      "transmission": "Automatik",
+      "year": "2019",
+      "power": "180 Kuaj Fuqi"
+    },
+    "renault_megane": {
+      "name": "Renault Megane",
+      "description": "Renault Megane është një hatchback i rafinuar, i përshtatshëm për çdo udhëtim.",
+      "fuel": "Benzinë",
+      "transmission": "Manual",
+      "year": "2017",
+      "power": "140 Kuaj Fuqi"
+    },
+    "fiat_500e": {
+      "name": "Fiat 500e",
+      "description": "Fiat 500e është elektrik, kompakt dhe ideal për qytetet e ngarkuara.",
+      "fuel": "Elektrik",
+      "transmission": "Automatik",
+      "year": "2020",
+      "power": "120 Kuaj Fuqi"
+    },
+    "tesla_model_3": {
+      "name": "Tesla Model 3",
+      "description": "Tesla Model 3 ofron performancë të lartë elektrike me teknologji të pakrahasueshme.",
+      "fuel": "Elektrik",
+      "transmission": "Automatik",
+      "year": "2022",
+      "power": "283 Kuaj Fuqi"
+    },
+    "subaru_outback": {
+      "name": "Subaru Outback",
+      "description": "Subaru Outback është për aventurierët – 4x4 i fuqishëm dhe i sigurt.",
+      "fuel": "Benzinë",
+      "transmission": "Automatik",
+      "year": "2019",
+      "power": "250 Kuaj Fuqi"
+    },
+    "citroen_c3": {
+      "name": "Citroen C3",
+      "description": "Citroen C3 është hatchback kompakt me dizajn unik dhe rehati të mirë.",
+      "fuel": "Benzinë",
+      "transmission": "Manual",
+      "year": "2018",
+      "power": "110 Kuaj Fuqi"
+    }
+  }
+}

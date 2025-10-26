@@ -1,0 +1,195 @@
+{
+  "home_title": "Автомобили под наем",
+  "filter_by_make": "Филтрирај по марка",
+  "start_date": "Почетен датум",
+  "end_date": "Краен датум",
+  "total_price": "Вкупната цена за {{days}} ден/дена е: {{price}} €",
+  "navbar": {
+    "cars": "Автомобили",
+    "about": "За Нас",
+    "contact": "Контакт"
+  },
+  "about_title": "За OneLeasing",
+  "about_text": "OneLeasing е водечка компанија во Македонија која нуди висококвалитетни услуги за изнајмување автомобили. Нашата цел е да обезбедиме одлично и едноставно искуство за секој клиент при изнајмувањето на автомобилот што го посакува. Нашите возила се модерни, добро одржувани и целосно сигурни, обезбедувајќи удобност и доверба на секое патување. Имаме разновиден флотен парк кој ги исполнува различните потреби на нашите клиенти, без разлика дали е за лична или бизнис употреба. Во OneLeasing, приоритет ни е транспарентноста и отворената комуникација со клиентите. Секој чекор од процесот на изнајмување е јасен и едноставен, без скриени трошоци или комплицирани процедури. Посветени сме на пријателска и брза услуга, со цел да ги задоволиме сите барања и очекувања на нашите клиенти. Со професионален и посветен тим, тука сме да ви помогнеме да го изберете идеалниот автомобил и да го направите секое патување успешно и пријатно. Верувајте во OneLeasing за најдобро решение за изнајмување автомобили во Македонија и доживејте врвна услуга во секој момент.",
+  "about_mission_title": "Нашата Мисија",
+  "about_mission_text": "Да обезбедиме најдобро искуство при изнајмување автомобили преку едноставен процес и пријателска услуга.",
+  "about_vision_title": "Нашата Визија",
+  "about_vision_text": "Да станеме водечка компанија за изнајмување автомобили во регионот, позната по квалитет и иновации.",
+  "about_values_title": "Нашите Вредности",
+  "about_values_trust_title": "Доверба",
+  "about_values_trust_text": "Градиме односи базирани на искреност и транспарентност.",
+  "about_values_flexibility_title": "Флексибилност",
+  "about_values_flexibility_text": "Се прилагодуваме на вашите потреби со флексибилни опции за изнајмување.",
+  "about_values_service_title": "Одлична Услуга",
+  "about_values_service_text": "Задоволството на клиентите е наш приоритет преку пријателска поддршка.",
+  "about_team_title": "Нашиот Тим",
+  "about_team_text": "Нашиот професионален тим секогаш е подготвен да ви помогне да го најдете идеалното возило за вашите потреби.",
+  "contact_title": "Контактирајте Не",
+  "contact_name": "Име",
+  "contact_email": "Е-маил",
+  "contact_message": "Порака",
+  "contact_send": "Испрати",
+  "contact_message_sent": "Пораката е испратена!",
+  "cars": {
+    "volkswagen_golf_7": {
+      "name": "Volkswagen Golf 7",
+      "description": "Golf 7 е компактен, економичен и погоден за возење во град и кратки патувања.",
+      "fuel": "Дизел",
+      "transmission": "Мануелен",
+      "year": "2018",
+      "power": "150 КС"
+    },
+    "bmw_x5": {
+      "name": "BMW X5",
+      "description": "BMW X5 нуди луксуз и перформанси со напредна технологија и удобност.",
+      "fuel": "Бензин",
+      "transmission": "Автоматски",
+      "year": "2020",
+      "power": "300 КС"
+    },
+    "audi_a4": {
+      "name": "Audi A4",
+      "description": "Audi A4 е совршен избор за оние кои бараат елеганција и динамика.",
+      "fuel": "Бензин",
+      "transmission": "Автоматски",
+      "year": "2019",
+      "power": "190 КС"
+    },
+    "mercedes_c_class": {
+      "name": "Mercedes C Class",
+      "description": "Mercedes C Class ги комбинира класичниот стил со модерна технологија и премиум удобност.",
+      "fuel": "Дизел",
+      "transmission": "Автоматски",
+      "year": "2021",
+      "power": "220 КС"
+    },
+    "toyota_corolla": {
+      "name": "Toyota Corolla",
+      "description": "Toyota Corolla е сигурна и економична – идеална за секојдневна употреба.",
+      "fuel": "Бензин",
+      "transmission": "Мануелен",
+      "year": "2017",
+      "power": "132 КС"
+    },
+    "ford_mustang": {
+      "name": "Ford Mustang",
+      "description": "Ford Mustang е икона на моќ и спортски американски стил.",
+      "fuel": "Бензин",
+      "transmission": "Мануелен",
+      "year": "2019",
+      "power": "450 КС"
+    },
+    "honda_civic": {
+      "name": "Honda Civic",
+      "description": "Honda Civic е практичен, издржлив и многу економичен за секојдневни возења.",
+      "fuel": "Бензин",
+      "transmission": "Автоматски",
+      "year": "2018",
+      "power": "158 КС"
+    },
+    "nissan_altima": {
+      "name": "Nissan Altima",
+      "description": "Nissan Altima нуди висок комфор и напредна технологија.",
+      "fuel": "Бензин",
+      "transmission": "Автоматски",
+      "year": "2020",
+      "power": "188 КС"
+    },
+    "chevrolet_camaro": {
+      "name": "Chevrolet Camaro",
+      "description": "Camaro е за оние кои сакаат адреналин и спортски впечатлив стил.",
+      "fuel": "Бензин",
+      "transmission": "Мануелен",
+      "year": "2018",
+      "power": "455 КС"
+    },
+    "mazda_6": {
+      "name": "Mazda 6",
+      "description": "Mazda 6 е елегантен седан со спортски карактеристики на управување.",
+      "fuel": "Бензин",
+      "transmission": "Мануелен",
+      "year": "2019",
+      "power": "187 КС"
+    },
+    "jeep_wrangler": {
+      "name": "Jeep Wrangler",
+      "description": "Jeep Wrangler е прилагоден за тешки терени и офроуд авантури.",
+      "fuel": "Бензин",
+      "transmission": "Мануелен",
+      "year": "2017",
+      "power": "285 КС"
+    },
+    "kia_sportage": {
+      "name": "Kia Sportage",
+      "description": "Kia Sportage нуди простор, стил и пристапна цена во модерен SUV.",
+      "fuel": "Дизел",
+      "transmission": "Автоматски",
+      "year": "2020",
+      "power": "181 КС"
+    },
+    "hyundai_tucson": {
+      "name": "Hyundai Tucson",
+      "description": "Tucson е практичен SUV со модерна технологија и елегантен дизајн.",
+      "fuel": "Дизел",
+      "transmission": "Автоматски",
+      "year": "2021",
+      "power": "175 КС"
+    },
+    "skoda_octavia": {
+      "name": "Skoda Octavia",
+      "description": "Skoda Octavia е позната по големиот простор и ниската потрошувачка на гориво.",
+      "fuel": "Дизел",
+      "transmission": "Мануелен",
+      "year": "2018",
+      "power": "150 КС"
+    },
+    "peugeot_3008": {
+      "name": "Peugeot 3008",
+      "description": "Peugeot 3008 нуди модерен француски стил и пријатно возење.",
+      "fuel": "Дизел",
+      "transmission": "Автоматски",
+      "year": "2019",
+      "power": "180 КС"
+    },
+    "renault_megane": {
+      "name": "Renault Megane",
+      "description": "Renault Megane е рафиниран хечбек погоден за секое патување.",
+      "fuel": "Бензин",
+      "transmission": "Мануелен",
+      "year": "2017",
+      "power": "140 КС"
+    },
+    "fiat_500e": {
+      "name": "Fiat 500e",
+      "description": "Fiat 500e е електричен, компактен и идеален за преполни градови.",
+      "fuel": "Електричен",
+      "transmission": "Автоматски",
+      "year": "2020",
+      "power": "120 КС"
+    },
+    "tesla_model_3": {
+      "name": "Tesla Model 3",
+      "description": "Tesla Model 3 нуди високи електрични перформанси со несравнива технологија.",
+      "fuel": "Електричен",
+      "transmission": "Автоматски",
+      "year": "2022",
+      "power": "283 КС"
+    },
+    "subaru_outback": {
+      "name": "Subaru Outback",
+      "description": "Subaru Outback е за авантуристи – моќен и сигурен 4x4.",
+      "fuel": "Бензин",
+      "transmission": "Автоматски",
+      "year": "2019",
+      "power": "250 КС"
+    },
+    "citroen_c3": {
+      "name": "Citroen C3",
+      "description": "Citroen C3 е компактен хечбек со уникатен дизајн и добра удобност.",
+      "fuel": "Бензин",
+      "transmission": "Мануелен",
+      "year": "2018",
+      "power": "110 КС"
+    }
+  }
+}
